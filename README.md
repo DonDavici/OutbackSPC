@@ -7,10 +7,10 @@ Special thanks goes to the following for the basis of this modified code:
 * https://github.com/victronenergy/velib_python <br>
 
 And all other authors and community members of victron which developed or helped to develop drivers, services and componentes
-# OutbackSPC
+# OutbackSPC and all* other Bluetooth supported Voltronic supported inverters.
 This is a driver for VenusOS devices.
 
-The driver will communicate with a Outback SPC III via Bluetooth and publish this data to the VenusOS system. 
+*The driver will communicate with PIP/Axpert/Infinisolar/Voltronic (and compatible) solar inverters via Bluetooth and publish this data to the VenusOS system. 
 
 ## Prerequisites
 You need to setup some depenacies on your VenusOS first
