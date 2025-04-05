@@ -24,7 +24,7 @@ You need to setup some depenacies on your VenusOS first:
 1) SSH to IP assigned to VenusOS device<br/>
 
 2) Resize/Expand file system<br/>
-'/opt/victronenergy/swupdate-scripts/resize2fs.sh
+'/opt/victronenergy/swupdate-scripts/resize2fs.sh'
 
 3) Update opkg<br/>
 'opkg update'
