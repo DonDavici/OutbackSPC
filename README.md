@@ -159,4 +159,6 @@ reboot
 ```
 
 # NOTES: 
-## $\color{Red}\Huge{\textsf{This driver is still in development and may not work as intended. Use at your own risk!}}$
+## $\color{Red}\Huge{\textsf{This driver is still in development}}$
+## $\color{Red}\Huge{\textsf{and may not work as intended.}}$
+## $\color{Red}\Huge{\textsf{Use at your own risk!}}$
